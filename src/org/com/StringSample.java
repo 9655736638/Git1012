@@ -5,7 +5,7 @@ public class StringSample {
 public static void main(String[] args) {
 	
 			System.out.println("samples");
-
+               System.out.println("sample");
 		}
 
 	
